@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/InfoSelection"
+        android:orderInCategory="100"
+    android:title="INFO" />
+    <item
+        android:id="@+id/AddSelection"
+        android:orderInCategory="101"
+        android:title="ADD" />
+    <item
+        android:id="@+id/EmailSelection"
+        android:orderInCategory="101"
+        android:title="EMAIL FACI" />
+</menu>
